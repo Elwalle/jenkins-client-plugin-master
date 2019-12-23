@@ -1,0 +1,8 @@
+.idea
+target
+PR-Testing/jpi/
+openshift-client.iml
+.classpath
+.project
+.settings
+.DS_Store
